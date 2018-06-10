@@ -1,6 +1,6 @@
 house:
   family:
-    name: 中国
+    name: hello
     parents:
       - John
       - Jane
