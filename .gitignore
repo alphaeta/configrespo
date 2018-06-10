@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# ignore Maven generated target folders
+target
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
+
 # Log file
 *.log
 
